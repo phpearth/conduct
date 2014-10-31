@@ -1,6 +1,9 @@
 PHP FB group posting rules and guidelines
 =========================================
 
+> **Important notice: This document is now deprecated in favor of the new rules that can be found at
+> [wwphp-fb.github.io](http://wwphp-fb.github.io).**
+
 This document specifies rules for users and administrators posting in international [PHP group on Facebook][php-group].
 
 Let's build a better environment for discussion, sharing and learning by following some good practices.
