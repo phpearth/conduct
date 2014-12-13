@@ -1,55 +1,51 @@
-PHP FB group posting rules and guidelines
-=========================================
+#Group rules - do's and don'ts of the PHP Facebook group
 
-> **Important notice: This document is now deprecated in favor of the new rules that can be found at
-> [wwphp-fb.github.io](http://wwphp-fb.github.io).**
+## English, please
 
-This document specifies rules for users and administrators posting in international [PHP group on Facebook][php-group].
+The group language was, would be in the future and is <strong>English</strong>. We will delete topics and comments that are not localized to English. If you are not able to communicate in English <a href="http://translate.google.com">Google Translate</a> may be an option.
 
-Let's build a better environment for discussion, sharing and learning by following some good practices.
+## Your topic has to be web development-centric
 
-Making Posts
-------------
+You are, or will be, a member of a PHP group that allows the discussion of web development topics,
+this includes topics about PHP, embeddable, client-related or service-extending languages (including NodeJS, JavaScript, CSS), XML, XSLT, YAML and others. You should keep in mind that our group is generally a PHP group. A good mix is what we would see and what we would allow, otherwise 14 days long periods of NodeJS-discussions are not part of our goals. This rule may be improved and reduced to a lower set of languages in the future, depending on how the group acts.
 
-* Make sure that the content of the post is related to PHP centric development.
-* Use English language only since it is an international group. If English is not your first language, use Google Translate and make the best so everyone will understand or check for your [local PHP user groups][local-php-ug]
-* Job opportunities must be PHP related.
-* Please avoid anything irrelevant. No literature or poetry here, please!
-* Please don't post links to scam sites or your referral accounts or any advertisements.
-* If you share something, please add a little description of the share.
-* If you want to share your experience or a tutorial, write a blog post and share the link here.
-* If you are seeking help, please explain your problem in a concise, well structured and readable manner. Try to put as much information as you can. Code samples can help others understand the issue easily (see Sharing codes point in How to Ask section for details).
-* Before asking a question in the group, please try to search on Google first. Your specific problem might have been already faced and solved.
-* No hate speech - not against any person or technology.
-* No piracy, copyright infringement or illegal objects please!
+## Be social
 
-How to Ask
-----------
+Our group has no place for harassments, insults or any kind of copyright infringement. You should treat others as you want them to treat you.
 
-We'd love to help you. But not every question gets answered. To improve your chances, here are some tips:
+## Be professional
 
-* Any question asked should be specific to a problem and the person should provide sample work done and clearly label the problem encountered. The questions should be PHP related and not repetition of what was asked before. 
-* Do your homework: Have you thoroughly searched for an answer before asking your question? Sharing your research helps everyone. Tell us what you found and why it didn't meet your needs. This demonstrates that you've taken the time to try to help yourself, it saves us from reiterating obvious answers, and most of all it helps you get a more specific and relevant answer!
-* Be specific: If you ask a vague question, you'll get a vague answer. But if you give us details and context, we can provide a useful answer.
-* Make it relevant to others: We like to help as many people at a time as we can. Make it clear how your question is relevant to more people than just you, and more of us will be interested in your question and willing to look into it.
-* Be on-topic: Our community is defined by a specific set of topics related to PHP and web development technologies; please try to stick to these topics.
-* Sharing codes: If you want to share your code, don't write the code in your post, instead please post the code using a code hosting service like http://pastie.org/, http://pastebin.com/, http://codepad.org/, http://codejaw.com/, http://gist.github.com/, http://jsfiddle.net/ or similar and include the link in your post. Also code highlighting is available in these sites which makes it easy to read your code.
-* Keep an open mind: The answer to your question may not always be the one you wanted, but that doesn't mean it is wrong. A conclusive answer isn't always possible. When in doubt, ask people to cite their sources, or to explain how/where they learned something. Even if we don't agree with you, or tell you exactly what you wanted to hear, remember – we're just trying to help.
+Sometimes you'll see questions that are very easy to answer with the use of Google.
+Stay professional, stay social. Help out with a link or a short explaination or ignore the topic.
 
-Making Comments
----------------
+## No porn
 
-* Please try to be on topic.
-* If your comment doesn't add any value to the post, please refrain from making the comment.
-* Respect other people's opinion.
-* Constructive debates or arguments with strong logic and appropriate reference are very welcome. Be open and accept different opinions. Heated debates or personal offense is not at all accepted here.
-* Please don't spoon feed others. Show them the way to learn and explore. That will be sustainable development for themselves.
-* No piracy, copyright infringement or illegal objects please!
-* Please don't post your email or phone number, instead send it inside a private message. You can get spammed otherwise.
+Sharing porn to our group will be punished with a life time ban and a direct forward of your
+account to facebook support.
 
-If by any chance you decide to leave this group, please leave it quietly without bothering other members. As it turns out usually announcements are not very constructive and are hard to be tolerated. Everything comes and goes. If you would like to leave the feedback about the group or help improving this policy, comments are welcome.
+## No source code
 
-Thanks for your understanding and have fun!
+If you need to share a piece of your source code drop it on <a href="http://github.com">github</a> or <a href="http://gist.github.com">github gists</a> (any other nopaste service will fit this rule too). Topics with source codes are hard to read and even uneasier to follow on mobile devices. Disrespecting this will end in the removal of your topic.
 
-[php-group]: https://www.facebook.com/groups/2204685680/
-[local-php-ug]: http://php.ug
+## No exploits, no hacks
+
+Topics that keep exploits, hacks, links to exploits or hacks will be deleted and your account will be permanently banned from the group.
+
+## No private data, in no case
+
+We disallow comments and topics that contain private email-addresses, phone numbers, skype identities or addresses in general.
+We do this to protect your privacy. Affected topics or comments will be removed from the group.
+
+## No advertising
+
+Advertisments at our group are a reason for a permanent ban. This does not include job announcements. Please respect that we do not discuss what advertisments are and what not. We identify, we handle.
+
+## Job opportunities
+
+job opportunities should be done in a peaceful period, do not post your stuff every day or every hour. Our group aims to discussions and should not act as a job feed. Your job opportunities must be PHP related. Any other opportunities will be removed.
+
+## no infected urls
+
+Infected urls or topics opened by Facebook Apps or viruses without your knowledge are deleted and your account is not removed right away. If the unwanted postings continue we remove your account as well from the group.
+
+Have a good time at our group and don't be shy to ask your question.
