@@ -27,6 +27,10 @@ account to facebook support.
 
 If you need to share a piece of your source code drop it on <a href="http://github.com">github</a> or <a href="http://gist.github.com">github gists</a> (any other nopaste service will fit this rule too). Topics with source codes are hard to read and even uneasier to follow on mobile devices. Disrespecting this will end in the removal of your topic.
 
+## No deprecated code
+
+Don't share content with deprecated code. Deprecated code leads to security issues, non-working functionalities of your app and we should refactor that to newer code.
+
 ## No exploits, no hacks
 
 Topics that keep exploits, hacks, links to exploits or hacks will be deleted and your account will be permanently banned from the group.
