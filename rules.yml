@@ -39,3 +39,6 @@
 
 - title: 'Follow Facebook community standards'
   description: 'Our group is located on Facebook network which means you must follow and respect <a href="https://www.facebook.com/communitystandards">Facebook community standards</a> as well.'
+
+- title: 'Follow Netiquette guidelines - RFC 1855'
+  description: 'For quality discussions follow also Netiquette guidelines described in <a href="https://www.ietf.org/rfc/rfc1855.txt">RFC 1855</a>.'
