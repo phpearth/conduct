@@ -1,7 +1,7 @@
 <?php
 <<<CONFIG
 packages:
-    - "symfony/yaml: ~2.6"
+    - "symfony/yaml: ~2.7"
 CONFIG;
 
 use Symfony\Component\Yaml\Yaml;
