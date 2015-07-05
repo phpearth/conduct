@@ -3,6 +3,11 @@
 
 - title: 'Your topic has to be web development-centric'
   description: 'You are, or will be, a member of a PHP group that allows the discussion of web development topics, this includes topics about PHP, embeddable, client-related or service-extending languages (including NodeJS, JavaScript, CSS), XML, XSLT, YAML and others. You should keep in mind that our group is generally a PHP group. A good mix is what we would see and what we would allow, otherwise 14 days long periods of NodeJS-discussions are not part of our goals. This rule may be improved and reduced to a lower set of languages in the future, depending on how the group acts. How to ask technical questions is described in details in this <a href="http://wwphp-fb.github.io/articles/how-to-ask-technical-questions/">article</a>.'
+  subrules:
+    - title: 'Sharing Facebook pages'
+      description: 'We don''t allow sharing offtopic Facebook pages for increasing likes because they mostly disorient other discussions in the group. We have a <a href="https://fb.com/groups/2204685680/permalink">special dedicated topic</a> available for that.'
+    - title: 'Sharing Facebook groups'
+      description: 'We don''t allow sharing offtopic Facebook groups but we allow and encourage using <a href="https://fb.com/groups/2204685680/permalink">dedicated topic</a> for that.'
 
 - title: 'Be social'
   description: 'Our group has no place for harassments, insults or any kind of copyright infringement. You should treat others as you want them to treat you.'
@@ -39,9 +44,6 @@
 
 - title: 'Don''t delete your topics'
   description: 'Don''t delete your topics once solutions were provided. Respect time of others willing to help you. Leaving topics available in the group might also help someone as you in the future. Topics are also visible in Facebook group search and therefore available for people looking for existing solutions.'
-
-- title: 'Sharing Facebook pages should be done only in dedicated topic for Facebook pages'
-  description: 'We don''t allow sharing offtopic Facebook pages for increasing likes because they mostly disorient other discussions in the group. We have a <a href="https://fb.com/groups/2204685680/permalink">special dedicated topic</a> available for that.'
 
 - title: 'Follow Facebook community standards'
   description: 'Our group is located on Facebook network which means you must follow and respect <a href="https://www.facebook.com/communitystandards">Facebook community standards</a> as well. That also means autoliker scripts are not allowed.'
