@@ -11,7 +11,7 @@
   description: 'Sometimes you''ll see questions that are very easy to answer with the use of Google. Stay professional, stay social. Help out with a link or a short explaination or ignore the topic.'
 
 - title: 'No porn'
-  description: 'Sharing porn to our group will be punished with a life time ban and a direct forward of your account to facebook support.'
+  description: 'Sharing porn to our group will be punished with a life time ban and a direct forward of your account to Facebook support.'
 
 - title: 'No source code'
   description: 'If you need to share a piece of your source code drop it on <a href="https://github.com">github</a> or <a href="https://gist.github.com">github gists</a> (any other nopaste service will fit this rule too). Topics with source codes are hard to read and even uneasier to follow on mobile devices. Disrespecting this will end in the removal of your topic.'
