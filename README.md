@@ -11,12 +11,12 @@ and releases a new tag.
 Fixing typos and new contribution to the rules are welcome by sending a pull request,
 opening a new topic in the group or opening just an [issue][issues].
 
-On each change of the rules also a Facebook document is generated. [Generator][generator] script uses
+On each change of the rules also a Facebook document must be generated. [Build][build] script in wwphp-fb.github.io repository uses
 [melody][melody] - one file Composer scripts:
 
 ```bash
 $ sudo sh -c "curl http://get.sensiolabs.org/melody.phar -o /usr/local/bin/melody && chmod a+x /usr/local/bin/melody"
-$ melody run generator.php -vvv
+$ melody run build.php -vvv
 ```
 
 This generates rules.html file which is pasted into the Facebook document as well.
@@ -26,6 +26,6 @@ This generates rules.html file which is pasted into the Facebook document as wel
 For the content and code license, please check the [LICENSE file][license].
 
 [issues]: https://github.com/wwphp-fb/group-rules/issues
-[generator]: generator.php
+[build]: https://github.com/wwphp-fb/wwphp-fb.github.io/blob/master/build.php
 [melody]: http://melody.sensiolabs.org/
 [license]: LICENSE
