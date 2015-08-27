@@ -32,7 +32,7 @@
   description: 'Hijacking topics means offtopic advertisements in comments or commenting in a way that should be done by starting a new conversation. Hijacking topics is not allowed.'
 
 - title: 'Job opportunities'
-  description: 'Job opportunities should be done in a peaceful period, do not post your stuff every day or every hour. Our group aims to discussions and should not act as a job feed. Your job opportunities must be PHP related. Any other opportunities will be removed. Use a <a href="https://www.facebook.com/notes/php/jobs-administrated-document/10151718775065681">special dedicated document</a> for this purpose.'
+  description: 'Job opportunities should be done in a peaceful period, do not post your stuff every day or every hour. Our group aims to discussions and should not act as a job feed. Your job opportunities must be PHP related. Any other opportunities will be removed.'
 
 - title: 'No infected urls'
   description: 'Infected urls or topics opened by Facebook Apps or viruses without your knowledge are deleted and your account is not removed right away. If the unwanted postings continue we remove your account as well from the group.'
