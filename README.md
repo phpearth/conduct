@@ -1,31 +1,20 @@
-# PHP Facebook group rules
+# Code of Conduct
+
+[![Join the chat at https://gitter.im/wwphp-fb/php-resources](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wwphp-fb/php-resources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![CC BY 4.0 License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg?style=plastic "CC BY 4.0 License")
 
 ## About
 
-This repository holds do's and don'ts of the PHP Facebook Group a.k.a. the
+This repository contains do's and don'ts of the PHP Facebook Group a.k.a. the
 posting rules and guidelines.
 
-We use Semantic versioning which means each change of the rule increases
-and releases a new tag.
+Repository uses [Semantic Versioning](http://semver.org/).
 
 Fixing typos and new contribution to the rules are welcome by sending a pull request,
-opening a new topic in the group or opening just an [issue][issues].
-
-On each change of the rules also a Facebook document must be generated. [Build][build] script in wwphp-fb.github.io repository uses
-[melody][melody] - one file Composer scripts:
-
-```bash
-$ sudo sh -c "curl http://get.sensiolabs.org/melody.phar -o /usr/local/bin/melody && chmod a+x /usr/local/bin/melody"
-$ melody run build.php -vvv
-```
-
-This generates rules.html file which is pasted into the Facebook document as well.
+opening a new topic in the group or opening an [issue](https://github.com/wwphp-fb/conduct/issues).
 
 ## License
 
-For the content and code license, please check the [LICENSE file][license].
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by/4.0/)
 
-[issues]: https://github.com/wwphp-fb/group-rules/issues
-[build]: https://github.com/wwphp-fb/wwphp-fb.github.io/blob/master/build.php
-[melody]: http://melody.sensiolabs.org/
-[license]: LICENSE
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
