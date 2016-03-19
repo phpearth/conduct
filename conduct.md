@@ -55,7 +55,7 @@ hard to read, because of the limited space on facebook. Topics with large source
 the timeline of the group. Comments with large source codes as its content will be removed from the content stream. Repeated
 post of large source codes are punished with a permanent removal of the membership(s).
 
-Commits done to our repositories must be fully researched and localized into English. There is no place for low quality content.
+Commits done to our repositories must be fully researched and localized into English. There is no place for low quality content. Low quality content includes topics that does only share code *without a proper description of the problem*, messy photos of screens that are hard to read and project or job shares that does not have a proper introduction.
 
 <ui-ribbon id="forbidden-content">Forbidden content</ui-ribbon>
 
@@ -63,9 +63,13 @@ It is not allowed to post content that does not cover web-centric development. A
 the permanent removal of the membership. Content that does violate the facebook community rules will be forwarded to the
 facebook staff. Topics that announces **job offers** must be posted into the announced topics and explicitly **not to the timeline of the group**.
 
+Especially personal data is explicitly not allowed at the group and will end **in any case** into a permanently removal of your membership(s).
+
 Committing any kind of the described forbidden content to our repository will be rejected and your behavior will be alerted to the github staff.
 
 <ui-ribbon id="social-behavior">Social behavior</ui-ribbon>
 
 **You have to act social**. There is no space for harassments, bulling or political content that does not cover web development topics.
 You should never compromise or damage others at the group. Violating this rule will result in a permanent removal of the membership(s).
+
+**You have to act peaceful**. There is no space for terrorism, recruitment shares and social honeypots. We actively track content the group and will forward such content directly to facebook and **international authorities**. Our main duty is to **protect our members**.
