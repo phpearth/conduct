@@ -31,9 +31,9 @@ redirect_from:
 *Short summary of Code of Conduct.*
 
 * Post in English only.
-* Be professional. Aim for good quality in questions and discussions. For sharing code use code hosting service such as [Gist](https.//gist.github.com).
-* Publish only web-centric development topics.
-* Don't share private data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general).
+* Be professional. Aim for good quality in questions and discussions. Use code hosting service such as [Gist](https.//gist.github.com) for sharing code.
+* Publish only PHP and web-centric development related topics.
+* Don't share personal data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general).
 * Be nice and respectful to others.
 
 ## The full version
@@ -73,11 +73,12 @@ Commits done to our repositories must be fully researched and localized into Eng
 
 <ui-ribbon id="forbidden-content">Forbidden content</ui-ribbon>
 
-It is not allowed to post content that does not cover web-centric development. Any violation of this rule will result in
+It is not allowed to post content that does not cover PHP and web-centric development. Any violation of this rule will result in
 the permanent removal of the membership. Content that does violate the facebook community rules will be forwarded to the
 facebook staff. Topics that announces **job offers** must be posted into the announced topics and explicitly **not to the timeline of the group**.
+Humor and sarcasm are not encouraged because they can have different points of reference among users.
 
-Especially personal data is explicitly not allowed at the group and will end **in any case** into a permanently removal of your membership(s).
+Especially personal data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general) are explicitly not allowed at the group and will end **in any case** into a permanently removal of your membership(s).
 
 Committing any kind of the described forbidden content to our repository will be rejected and your behavior will be alerted to the github staff.
 
