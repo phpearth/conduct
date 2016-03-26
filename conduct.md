@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Code of Conduct"
-origin: "rules"
+origin: "conduct"
 og_image: "assets/img/rules-large.png"
 read_time: 3 min
 php: null
@@ -22,6 +22,7 @@ toc:
 redirect_from:
     - "/rules/"
     - "rules.html"
+permalink: "/code-of-conduct/"
 ---
 
 # Code of Conduct
