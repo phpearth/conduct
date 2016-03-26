@@ -31,7 +31,7 @@ redirect_from:
 *Short summary of Code of Conduct.*
 
 * Post in English only.
-* Be professional. Aim for good quality in questions and discussions. Use code hosting service such as [Gist](https.//gist.github.com) for sharing code.
+* Be professional. Aim for good quality in questions and discussions. Use code hosting service such as [Gist](https://gist.github.com) for sharing code.
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general).
 * Be nice and respectful to others.
