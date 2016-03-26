@@ -3,7 +3,7 @@ layout: default
 title: "Code of Conduct"
 origin: "rules"
 og_image: "assets/img/rules-large.png"
-read_time: 2 min 30 secs
+read_time: 3 min
 php: null
 compass: null
 
@@ -23,6 +23,16 @@ redirect_from:
     - "/rules/"
     - "rules.html"
 ---
+
+# Code of Conduct
+
+## TL;DR version
+
+* English only.
+* Be professional. Aim for good quality in questions and discussions. Use code hosting service for sharing code.
+* Publish only web-centric development topics.
+* Don't share private data.
+* Be nice and respectful to others.
 
 <ui-ribbon color="grey" id="preamble">Preamble</ui-ribbon>
 
