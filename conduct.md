@@ -28,11 +28,15 @@ redirect_from:
 
 ## TL;DR version
 
-* English only.
-* Be professional. Aim for good quality in questions and discussions. Use code hosting service for sharing code.
+*Short summary of Code of Conduct.*
+
+* Post in English only.
+* Be professional. Aim for good quality in questions and discussions. For sharing code use code hosting service such as [Gist](https.//gist.github.com).
 * Publish only web-centric development topics.
-* Don't share private data.
+* Don't share private data (emails, phone numbers, WhatsApp numbers, Skype identities or addresses in general).
 * Be nice and respectful to others.
+
+## The full version
 
 <ui-ribbon color="grey" id="preamble">Preamble</ui-ribbon>
 
