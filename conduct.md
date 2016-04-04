@@ -92,14 +92,22 @@ have a proper introduction.
 It is not allowed to post content that does not cover PHP and web-centric
 development. Any violation of this rule will result in permanent removal of the
 membership. Content that violates the Facebook community rules will be forwarded
-to the Facebook staff. Topics that announces **job opportunities** must be posted
-into the announced topics and explicitly **not on the timeline of the group**.
+to the Facebook staff.
+
+**Job opportunities** must be PHP related and should be done in a peaceful period.
+Do not post your stuff every day or every hour. Our group aims to discussions and
+should not act as a job feed. Any other opportunities will be removed.
+
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
 
 Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or
 addresses in general) are explicitly not allowed in the group and will end
 **in any case** with a permanent removal of your membership(s).
+
+**Hijacking topics** is not allowed. This either includes offtopic advertisements
+in comments or commenting in a way that should be done by starting a new
+conversation.
 
 Committing any kind of the described forbidden content to our repository will be
 rejected and your behavior will be alerted to the GitHub staff.
