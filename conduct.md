@@ -109,6 +109,9 @@ addresses in general) are explicitly not allowed in the group and will end
 in comments or commenting in a way that should be done by starting a new
 conversation.
 
+Exploits and hacks will be deleted and will end with a permanent removal of your
+membership(s).
+
 Committing any kind of the described forbidden content to our repository will be
 rejected and your behavior will be alerted to the GitHub staff.
 
