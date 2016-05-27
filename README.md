@@ -6,7 +6,9 @@
 This repository contains do's and don'ts of the [international PHP Facebook Group](https://www.facebook.com/groups/2204685680/)
 a.k.a. the posting rules.
 
-Repository follows [Semantic Versioning](http://semver.org/).
+Repository follows [Semantic Versioning](http://semver.org/) and adopts best
+practices from [Code Manifesto](http://codemanifesto.com/) and
+[Contributor Covenant](http://contributor-covenant.org/).
 
 ## License
 

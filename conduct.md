@@ -122,6 +122,12 @@ content that does not cover web development topics. You should never compromise
 or harm other members. Violating this rule will result in a permanent removal of
 the membership(s).
 
+**Discrimination is not acceptable**. Discrimination on the basis of race, gender,
+sexual orientation, gender identity, age, nationality, religion, technology and
+any other arbitrary exclusion of a group of people is unwelcome. The use of
+sexualized language or imagery and unwelcome sexual attention or advances is not
+acceptable.
+
 **You have to act peaceful**. There is no place for terrorism, recruitment shares
 and social honeypots. We actively track group content and will forward such
 content directly to Facebook and **international authorities**. Our main duty is
