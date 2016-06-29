@@ -115,6 +115,11 @@ membership(s).
 Committing any kind of the described forbidden content to our repository will be
 rejected and your behavior will be alerted to the GitHub staff.
 
+Security issues are examined and treated accordingly to the severity of the
+situation. If the issue is severe the topic is removed from the public discussion
+to prevent further possible damage. Project owners are notified about it and are
+given time to fix it.
+
 ### Social behavior
 
 **You have to act social**. There is no place for harassments, bulling or political
