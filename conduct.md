@@ -137,3 +137,9 @@ acceptable.
 and social honeypots. We actively track group content and will forward such
 content directly to Facebook and **international authorities**. Our main duty is
 to **protect our members**.
+
+**Handle your posts accordingly to the situation**. Don't delete your topics
+once solutions were provided. Respect time of others willing to help you. Leaving
+topics available in the group might also help someone as you in the future. Topics
+are also visible in group search and therefore available for people looking for
+existing solutions.
