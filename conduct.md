@@ -3,7 +3,6 @@ layout: default
 title: "Code of Conduct"
 origin: "conduct"
 image: "/assets/img/rules-large.png"
-read_time: 3 min
 php: null
 compass: null
 
