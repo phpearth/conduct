@@ -3,8 +3,6 @@ layout: default
 title: "Code of Conduct"
 origin: "conduct"
 image: "/assets/img/rules-large.png"
-php: null
-compass: null
 
 toc:
   - name  : Preamble
