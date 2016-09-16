@@ -4,18 +4,6 @@ title: "Code of Conduct"
 origin: "conduct"
 image: "/assets/img/rules-large.png"
 
-toc:
-  - name  : Preamble
-    anchor: preamble
-  - name  : Content localization
-    anchor: localization
-  - name  : Content quality
-    anchor: quality
-  - name  : Forbidden content
-    anchor: forbidden-content
-  - name  : Social behavior
-    anchor: social-behavior
-
 redirect_from:
     - "/rules/"
     - "rules.html"
@@ -140,3 +128,13 @@ once solutions were provided. Respect time of others willing to help you. Leavin
 topics available in the group might also help someone as you in the future. Topics
 are also visible in group search and therefore available for people looking for
 existing solutions.
+
+### Disrespecting Staff Members
+
+Insults, not following the instructions and similar disrespecting of the group
+administrators and moderators result in a permanent ban.
+
+Blocking staff members makes communication with you impossible. We must be able
+to communicate with you to resolve issues, explain certain situation and give
+you further instruction about posts. In such cases the other staff members may
+ask you to remove the block, otherwise your membership ends in a permanent ban.
