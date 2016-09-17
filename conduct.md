@@ -12,18 +12,18 @@ permalink: "/code-of-conduct/"
 
 # Code of Conduct
 
-## TL;DR version
+## TL;DR Version
 
 *Short summary of the group rules.*
 
 * Post in English only.
 * Be professional. Aim for good quality in questions and discussions. For sharing
-  code use nopaste service such as [Gist](https://gist.github.com).
+  code use [nopaste service](/faq/nopaste-services/) such as [Gist](https://gist.github.com).
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data.
 * Be nice and respectful to others.
 
-## The full version
+## The Full Version
 
 ### Preamble
 
@@ -37,7 +37,7 @@ open for discussion.
 
 The following rules are **mandatory** to participate in group and all repositories:
 
-### Content localization
+### Content Localization
 
 Anything published on the timeline of the group must be in **English**. Members
 of the group are located all over the world. The language of the group has been
@@ -52,18 +52,19 @@ are not localized in English will be rejected. Issues must be localized in
 **English**. Issues that are not localized in English will be closed without any
 investigation.
 
-### Content quality
+### Content Quality
 
 Shares and posts to the timeline **must have a regular level of quality**.
 Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the web
 for you. You must **avoid posting large code snippets** pasted on the timeline
-of the group. We recommend to serve source code in any case as a [Gist](https://gist.github.com)
-to grant the best possible readability. Large source codes posted on the timeline
-are difficult to read, because of the limited space on Facebook. Topics with
-large source codes as its content will be removed from the timeline of the group.
-Comments with large source codes as its content will be removed from the content
-stream. Repeated post of large source codes are punished with a permanent
+of the group. We always recommend to share source code using [nopaste
+service](/faq/nopaste-services/) such as [Gist](https://gist.github.com), or
+similar to grant the best possible readability. Large source codes posted on the
+timeline are difficult to read, because of the limited space on Facebook. Topics
+with large source codes as its content will be removed from the timeline of the
+group. Comments with large source codes as its content will be removed from the
+content stream. Repeated post of large source codes are punished with a permanent
 removal of the membership(s).
 
 Commits sent to our repositories must be fully researched and localized into
@@ -72,7 +73,7 @@ topics with only code *without a proper description of the problem*, unclear
 photos of screens that are hard to read and job opportunity shares that don't
 have a proper introduction.
 
-### Forbidden content
+### Forbidden Content
 
 It is not allowed to post content that does not cover PHP and web-centric
 development. Any violation of this rule will result in permanent removal of the
@@ -105,7 +106,7 @@ situation. If the issue is severe the topic is removed from the public discussio
 to prevent further possible damage. Project owners are notified about it and are
 given time to fix it.
 
-### Social behavior
+### Social Behavior
 
 **You have to act social**. There is no place for harassments, bulling or political
 content that does not cover web development topics. You should never compromise
