@@ -18,7 +18,7 @@ permalink: "/code-of-conduct/"
 
 * Post in English only.
 * Be professional. Aim for good quality in questions and discussions. For sharing
-  code use [nopaste service](/faq/nopaste-services/) such as [Gist](https://gist.github.com).
+  code use [nopaste service](/nopaste).
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data.
 * Be nice and respectful to others.
@@ -59,13 +59,12 @@ Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the web
 for you. You must **avoid posting large code snippets** pasted on the timeline
 of the group. We always recommend to share source code using [nopaste
-service](/faq/nopaste-services/) such as [Gist](https://gist.github.com), or
-similar to grant the best possible readability. Large source codes posted on the
-timeline are difficult to read, because of the limited space on Facebook. Topics
-with large source codes as its content will be removed from the timeline of the
-group. Comments with large source codes as its content will be removed from the
-content stream. Repeated post of large source codes are punished with a permanent
-removal of the membership(s).
+service](/nopaste) to grant the best possible readability. Large source codes
+posted on the timeline are difficult to read, because of the limited space on
+Facebook. Topics with large source codes as its content will be removed from the
+timeline of the group. Comments with large source codes as its content will be
+removed from the content stream. Repeated post of large source codes are punished
+with a permanent removal of the membership(s).
 
 Commits sent to our repositories must be fully researched and localized into
 English. There is no place for low quality content. Low quality content include
