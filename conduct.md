@@ -97,6 +97,12 @@ conversation.
 Exploits and hacks will be deleted and will end with a permanent removal of your
 membership(s).
 
+You must respect licenses and other people's work. To use other people's code,
+text, themes, designs and similar intellectual property, please consult with
+the owners and the given licenses. Reports to the original authors will be also
+made for further investigation based on the harm done. **Copyright infringements**
+end with a permanent removal of your membership and topic deletion.
+
 Committing any kind of the described forbidden content to our repository will be
 rejected and your behavior will be alerted to the GitHub staff.
 
