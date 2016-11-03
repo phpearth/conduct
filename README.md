@@ -12,6 +12,6 @@ practices from [Code Manifesto](http://codemanifesto.com/) and
 
 ## License
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by/4.0/)
+[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License")](http://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](http://creativecommons.org/licenses/by-sa/4.0/).
