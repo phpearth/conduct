@@ -91,7 +91,9 @@ reference among users.
 
 Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or
 addresses in general) are explicitly not allowed in the group and will end
-**in any case** with a permanent removal of your membership(/s).
+**in any case** with a permanent removal of your membership(/s). This includes
+requests for WhatsApp numbers to form new "PHP Developers WhatsApp" groups,
+regardless of if the numbers themselves are public or not.
 
 **Hijacking topics** is not allowed. This either includes offtopic
 advertisements in comments or commenting in a way that should be done by
