@@ -69,7 +69,7 @@ lengthy source code will be punished with a permanent removal of the offending
 membership(/s).
 
 Commits sent to our repositories must be fully researched and localized into
-English. There is no place for low quality content. Low quality content include
+English. There is no place for low-quality content. Low-quality content include
 topics with only code *without a proper description of the problem*, unclear
 photos of screens that are hard to read and job opportunity shares that don't
 have a proper introduction.
@@ -140,6 +140,15 @@ once solutions were provided. Respect time of others willing to help you.
 Leaving topics available in the group might also help someone as you in the
 future. Topics are also visible in group search and therefore available for
 people looking for existing solutions.
+
+**Closing topics**. Topics are closed by group staff decision in a case of
+non-English content, personal data shared, duplicate posts or low-quality
+discussions. Closing topics on your behalf is not a welcome practice and requires
+group staff decision. Instead, ask staff members to close the particular topic
+for you.
+
+**Bumping topics**. Bumping topics in order to change the post position above
+the other discussions is not a welcome practice and should be always avoided.
 
 ### Disrespecting Staff Members
 
