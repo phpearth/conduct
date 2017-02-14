@@ -84,7 +84,7 @@ forwarded to the Facebook staff.
 **Job opportunities** must be PHP related and should be done in a peaceful
 period. Do not post your stuff every day or every hour. Our group aims to
 discussions and should not act as a job feed. Any other opportunities will be
-removed.
+removed. Job opportunities that encourage discrimination as outlined below under "Social Behavior" are not acceptable.
 
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
