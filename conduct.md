@@ -160,3 +160,22 @@ Blocking staff members makes communication with you impossible. We must be able
 to communicate with you to resolve issues, explain certain situation and give
 you further instruction about posts. In such cases the other staff members may
 ask you to remove the block, otherwise your membership ends in a permanent ban.
+
+### Ban
+
+When banning (blocking/removing/revoking account membership), the following
+types are practiced:
+
+* Kick
+
+  User account is only removed from the group and not blocked. They may return
+  to the group anytime they choose.
+
+* Temporary ban
+
+  User account is blocked from accessing the group for few days or weeks. When
+  group staff member removes the user from the blocked list, they may return.
+
+* Ban
+
+  User account is blocked from accessing the group for few months to about a year.
