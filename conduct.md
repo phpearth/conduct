@@ -149,7 +149,9 @@ group staff decision. Instead, ask staff members to close the particular topic
 for you.
 
 **Bumping topics**. Bumping topics in order to change the post position above
-the other discussions is not a welcome practice and should be always avoided.
+the other discussions is not a welcome practice and should be avoided except for
+the support type of posts (questions) that need additional attention and help from
+the community members.
 
 ### Disrespecting Staff Members
 
