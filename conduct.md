@@ -20,11 +20,11 @@ image: "/assets/img/rules.png"
 
 ### Preamble
 
-This document defines the Code of Conduct (hereinafter CoC) of the global PHP
+This document defines the Code of Conduct (hereinafter conduct) of the global PHP
 Group and its environments (hereinafter group). You **accept** the given rules
-of this CoC **when joining** our group **or participating** on our repositories.
-You **must** follow this CoC, **any violation** results in the temporary or
-permanent removal of your membership. This CoC counts for everyone
+of this conduct **when joining** our group **or participating** on our repositories.
+You **must** follow this conduct, **any violation** results in the temporary or
+permanent removal of your membership. This conduct counts for everyone
 administrators and regular members.
 
 The following rules are **mandatory** to participate in group and all
@@ -76,8 +76,7 @@ Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
 
 Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or
-addresses in general) are explicitly not allowed in the group and will end
-**in any case** with a permanent removal of your membership. This includes
+addresses in general) are explicitly not allowed in the group. This includes
 requests for WhatsApp numbers to form new "PHP Developers WhatsApp" groups,
 regardless of if the numbers themselves are public or not.
 
