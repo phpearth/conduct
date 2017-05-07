@@ -1,5 +1,4 @@
 ---
-title: "Code of Conduct"
 image: "/assets/img/rules.png"
 ---
 
@@ -20,12 +19,12 @@ image: "/assets/img/rules.png"
 
 ### Preamble
 
-This document defines the Code of Conduct (hereinafter conduct) of the global PHP
-Group and its environments (hereinafter group). You **accept** the given rules
-of this conduct **when joining** our group **or participating** on our repositories.
-You **must** follow this conduct, **any violation** results in the temporary or
-permanent removal of your membership. This conduct counts for everyone
-administrators and regular members.
+This document defines the Code of Conduct of the global PHP Group and its
+environments. You **accept** the given rules of this conduct **when joining**
+our group **or participating** on our repositories. You **must** follow
+this conduct, **any violation** results in the temporary or permanent
+removal of your membership. This conduct counts for everyone administrators
+and regular members.
 
 The following rules are **mandatory** to participate in group and all
 repositories:
@@ -34,7 +33,7 @@ repositories:
 
 Anything published on the timeline of the group must be in **English**. Members
 of the group are located all over the world. The language of the group has been
-standardized to **English** to guarantee painless communication. Attached
+standardized to English to guarantee painless communication. Attached
 shares localized into other languages will be removed without further notice.
 Posted content that is localized in other languages and that does not count as
 a regular Facebook share will be removed.
@@ -75,17 +74,15 @@ removed. Job opportunities that encourage discrimination as outlined below under
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
 
-Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or
-addresses in general) are explicitly not allowed in the group. This includes
-requests for WhatsApp numbers to form new "PHP Developers WhatsApp" groups,
-regardless of if the numbers themselves are public or not.
+Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers,
+Skype identities or addresses in general) are explicitly not allowed in the group.
+Instead you should use private message functionality.
 
 **Hijacking topics** is not allowed. This either includes offtopic
 advertisements in comments or commenting in a way that should be done by
 starting a new conversation.
 
-Exploits and hacks will be deleted and will end with a permanent removal of
-your membership.
+Exploits and hacks are not allowed.
 
 You must respect licenses and other people's work. To use other people's code,
 text, themes, designs and similar intellectual property, please consult with
