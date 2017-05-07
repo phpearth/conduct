@@ -2,12 +2,10 @@
 
 ![CC BY 4.0 License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg?style=plastic "CC BY 4.0 License")
 
-This repository contains do's and don'ts of the [international PHP Facebook Group](https://www.facebook.com/groups/2204685680/)
+This repository contains do's and don'ts of the [Global PHP Group PHP.earth](https://php.earth)
 a.k.a. the posting rules.
 
-Repository follows [Semantic Versioning](http://semver.org/) and adopts best
-practices from [Code Manifesto](http://codemanifesto.com/) and
-[Contributor Covenant](http://contributor-covenant.org/).
+Repository follows [Semantic Versioning](http://semver.org/).
 
 ## License
 

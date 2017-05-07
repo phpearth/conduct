@@ -1,13 +1,5 @@
 ---
-layout: default
-title: "Code of Conduct"
-origin: "conduct"
-image: "/assets/img/rules-large.png"
-
-redirect_from:
-    - "/rules/"
-    - "rules.html"
-permalink: "/code-of-conduct/"
+image: "/assets/img/rules.png"
 ---
 
 # Code of Conduct
@@ -16,24 +8,23 @@ permalink: "/code-of-conduct/"
 
 *Short summary of the group rules.*
 
-* Post in English only.
+* Be nice and respectful to others.
 * Be professional. Aim for good quality in questions and discussions. For
-  sharing code use [nopaste service](/nopaste).
+  sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
+* Post in English.
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data.
-* Be nice and respectful to others.
 
 ## The Full Version
 
 ### Preamble
 
-This document defines the Code of Conduct (from now on called: CoC) of the
-international PHP Facebook Group (from now on called: the group) and its
-environments. You **accept** the given rules of this CoC **when joining** our
-group **or participating** on our repositories. You **must** follow this CoC,
-**any violation** results in the temporary or permanent removal of your
-membership(/s). This CoC counts for everyone, administrators and regular
-members. The content of this CoC is not open for discussion.
+This document defines the Code of Conduct of the global PHP Group and its
+environments. You **accept** the given rules of this conduct **when joining**
+our group **or participating** on our repositories. You **must** follow
+this conduct, **any violation** results in the temporary or permanent
+removal of your membership. This conduct counts for everyone administrators
+and regular members.
 
 The following rules are **mandatory** to participate in group and all
 repositories:
@@ -42,16 +33,12 @@ repositories:
 
 Anything published on the timeline of the group must be in **English**. Members
 of the group are located all over the world. The language of the group has been
-standardized to **English** to guarantee painless communication. Attached
+standardized to English to guarantee painless communication. Attached
 shares localized into other languages will be removed without further notice.
 Posted content that is localized in other languages and that does not count as
-a regular Facebook share will be removed and topic author will be temporary
-removed from the group.
+a regular Facebook share will be removed.
 
-Commits sent to our repositories must be localized in **English**. Commits that
-are not localized in English will be rejected. Issues must be localized in
-**English**. Issues that are not localized in English will be closed without
-any investigation.
+Commits and issues sent to our repositories must be localized to **English**.
 
 ### Content Quality
 
@@ -60,25 +47,22 @@ Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the
 web for you. You must **avoid posting large code snippets** to the timeline of
 the group. We always recommend to share source code using
-[nopaste service](/nopaste) to grant the best possible readability. Lengthy
-source code posted to the timeline can be difficult to read, because of the
-limited space on Facebook. Topics with large source code as their content will
-be removed from the timeline of the group. Comments with large source code as
-their content will be removed from the content stream. Repeatedly posting
-lengthy source code will be punished with a permanent removal of the offending
-membership(/s).
+[nopaste service](https://php.earth/doc/interop/nopaste) to grant the best
+possible readability. Long source code posted to the timeline can be difficult
+to read, because of the limited space on Facebook. Topics with large source
+code as their content will be removed from the timeline of the group. Comments
+with large source code as their content will be removed from the content stream.
 
-Commits sent to our repositories must be fully researched and localized into
-English. There is no place for low-quality content. Low-quality content include
-topics with only code *without a proper description of the problem*, unclear
-photos of screens that are hard to read and job opportunity shares that don't
-have a proper introduction.
+There is no place for low-quality content. Low-quality content include topics
+with only code *without a proper description of the problem*, unclear photos
+of screens that are hard to read and job opportunity shares that don't have
+a proper introduction.
 
 ### Forbidden Content
 
 It is not allowed to post content that does not cover PHP and web-centric
 development. Any violation of this rule will result in permanent removal of the
-membership. Content that violates the Facebook community rules will be
+membership. Content that violates the Facebook community standards will be
 forwarded to the Facebook staff.
 
 **Job opportunities** must be PHP related and should be done in a peaceful
@@ -90,25 +74,22 @@ removed. Job opportunities that encourage discrimination as outlined below under
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
 
-Personal data (emails, phone numbers, WhatsApp numbers, Skype identities or
-addresses in general) are explicitly not allowed in the group and will end
-**in any case** with a permanent removal of your membership(/s). This includes
-requests for WhatsApp numbers to form new "PHP Developers WhatsApp" groups,
-regardless of if the numbers themselves are public or not.
+Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers,
+Skype identities or addresses in general) are explicitly not allowed in the group.
+Instead you should use private message functionality.
 
 **Hijacking topics** is not allowed. This either includes offtopic
 advertisements in comments or commenting in a way that should be done by
 starting a new conversation.
 
-Exploits and hacks will be deleted and will end with a permanent removal of
-your membership(/s).
+Exploits and hacks are not allowed.
 
 You must respect licenses and other people's work. To use other people's code,
 text, themes, designs and similar intellectual property, please consult with
 the owners and the given licenses. Reports to the original authors will be also
 made for further investigation based on the harm done. **Copyright
-infringements** end with a permanent removal of the offending membership(/s)
-and all related offending material(/s).
+infringements** end with a permanent removal of the offending membership
+and all related offending material.
 
 Committing any kind of the described forbidden content to our repository will
 be rejected and your behavior will be alerted to the GitHub staff.
@@ -122,8 +103,7 @@ about it and are given time to fix it.
 
 **You have to act social**. There is no place for harassments, bulling or
 political content that does not cover web development topics. You should never
-compromise or harm other members. Violating this rule will result in a
-permanent removal of the offending membership(/s).
+compromise or harm other members.
 
 **Discrimination is not acceptable**. Discrimination on the basis of race,
 gender, sexual orientation, gender identity, age, nationality, religion,
