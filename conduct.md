@@ -10,7 +10,7 @@ image: "/assets/img/rules.png"
 
 * Be nice and respectful to others.
 * Be professional. Aim for good quality in questions and discussions. For
-  sharing code use [nopaste service](/nopaste).
+  sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
 * Post in English.
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data.
@@ -47,11 +47,11 @@ Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the
 web for you. You must **avoid posting large code snippets** to the timeline of
 the group. We always recommend to share source code using
-[nopaste service](/nopaste) to grant the best possible readability. Long
-source code posted to the timeline can be difficult to read, because of the
-limited space on Facebook. Topics with large source code as their content will
-be removed from the timeline of the group. Comments with large source code as
-their content will be removed from the content stream.
+[nopaste service](https://php.earth/doc/interop/nopaste) to grant the best
+possible readability. Long source code posted to the timeline can be difficult
+to read, because of the limited space on Facebook. Topics with large source
+code as their content will be removed from the timeline of the group. Comments
+with large source code as their content will be removed from the content stream.
 
 There is no place for low-quality content. Low-quality content include topics
 with only code *without a proper description of the problem*, unclear photos
