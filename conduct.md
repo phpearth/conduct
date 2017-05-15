@@ -1,5 +1,6 @@
 ---
 image: "/assets/img/rules.png"
+description: Be nice and respectful, be professional, aim for good quality in questions and discussions, use nopaste, post in English, publish only PHP and web-centric development related topics, don't share personal data.
 ---
 
 # Code of Conduct
@@ -161,3 +162,12 @@ types are practiced:
 * Ban
 
   User account is blocked from accessing the group for few months to about a year.
+
+### Contact
+
+The project team maintains confidentiality with regard to the reporter of an
+incident. Wherever possible, we ask you to not disclose public information about
+the incident until we properly address the situation. This includes not posting
+on social media about the incident, until we have had an opportunity to ensure
+the safety of all involved. Code of conduct violations may be reported by
+contacting the project team at `conduct AT php.earth`.
