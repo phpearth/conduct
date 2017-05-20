@@ -1,5 +1,5 @@
 ---
-image: "/assets/img/rules.png"
+image: "/assets/img/rules.gif"
 description: Be nice and respectful, be professional, aim for good quality in questions and discussions, use nopaste, post in English, publish only PHP and web-centric development related topics, don't share personal data.
 ---
 
