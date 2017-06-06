@@ -134,6 +134,11 @@ the other discussions is not a welcome practice and should be avoided except for
 the support type of posts (questions) that need additional attention and help from
 the community members.
 
+**Private messaging**. Avoid sending commercial, support questions, or similar
+messages to community members over private messages. Harassing community members
+should be avoided at all costs. Contact and interact with people you don't know
+with some sense related to particular situation and respect user's privacy.
+
 ### Disrespecting Staff Members
 
 Insults, not following the instructions and similar disrespecting of the group
