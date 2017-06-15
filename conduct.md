@@ -3,9 +3,9 @@ image: "https://raw.githubusercontent.com/php-earth/PHP.earth/master/assets/meta
 description: Be nice and respectful, be professional, aim for good quality in questions and discussions, use nopaste, post in English, publish only PHP and web-centric development related topics, don't share personal data.
 ---
 
-# Code of Conduct
+# Code of conduct
 
-## TL;DR Version
+## TL;DR version
 
 *Short summary of the group rules.*
 
@@ -16,7 +16,7 @@ description: Be nice and respectful, be professional, aim for good quality in qu
 * Publish only PHP and web-centric development related topics.
 * Don't share personal data.
 
-## The Full Version
+## The full version
 
 ### Preamble
 
@@ -30,7 +30,7 @@ and regular members.
 The following rules are **mandatory** to participate in group and all
 repositories:
 
-### Content Localization
+### Content localization
 
 Anything published on the timeline of the group must be in **English**. Members
 of the group are located all over the world. The language of the group has been
@@ -41,7 +41,7 @@ a regular Facebook share will be removed.
 
 Commits and issues sent to our repositories must be localized to **English**.
 
-### Content Quality
+### Content quality
 
 Shares and posts to the timeline **must have a regular level of quality**.
 Questions **must be researched** before being posted. The group acts as a group
@@ -59,7 +59,7 @@ with only code *without a proper description of the problem*, unclear photos
 of screens that are hard to read and job opportunity shares that don't have
 a proper introduction.
 
-### Forbidden Content
+### Forbidden content
 
 It is not allowed to post content that does not cover PHP and web-centric
 development. Any violation of this rule will result in permanent removal of the
@@ -100,7 +100,7 @@ situation. If the issue is severe the topic is removed from the public
 discussion to prevent further possible damage. Project owners are notified
 about it and are given time to fix it.
 
-### Social Behavior
+### Social behavior
 
 **You have to act social**. There is no place for harassments, bulling or
 political content that does not cover web development topics. You should never
@@ -139,7 +139,7 @@ messages to community members over private messages. Harassing community members
 should be avoided at all costs. Contact and interact with people you don't know
 with some sense related to particular situation and respect user's privacy.
 
-### Disrespecting Staff Members
+### Disrespecting staff members
 
 Insults, not following the instructions and similar disrespecting of the group
 administrators and moderators result in a permanent ban.
