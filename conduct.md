@@ -135,7 +135,7 @@ the support type of posts (questions) that need additional attention and help fr
 the community members.
 
 **Affiliate links and paid promotions**: When a post contains an affiliate link
-or a paid promotion, it must be clear to the user by adding additional info of
+or a paid promotion, it must be clear to the user by adding additional info like
 "this is a an affiliate link/paid promotion" or similar in the post description.
 
 **Private messaging**. Avoid sending commercial, support questions, or similar
