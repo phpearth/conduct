@@ -134,6 +134,10 @@ the other discussions is not a welcome practice and should be avoided except for
 the support type of posts (questions) that need additional attention and help from
 the community members.
 
+**Affiliate links and paid promotions**: When a post contains an affiliate link
+or a paid promotion, it must be clear to the user by adding additional info of
+"this is a an affiliate link/paid promotion" or similar in the post description.
+
 **Private messaging**. Avoid sending commercial, support questions, or similar
 messages to community members over private messages. Harassing community members
 should be avoided at all costs. Contact and interact with people you don't know
