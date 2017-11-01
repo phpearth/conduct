@@ -54,7 +54,7 @@ to read, because of the limited space on Facebook. Topics with large source
 code as their content will be removed from the timeline of the group. Comments
 with large source code as their content will be removed from the content stream.
 Duplicate topics are not encouraged as they fill the group timeline and hinder
-the visibility of other Topics. Duplicates will be removed from the
+the visibility of other topics. Duplicates will be removed from the
 group timeline.
 
 There is no place for low-quality content. Low-quality content include topics
