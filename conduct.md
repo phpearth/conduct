@@ -9,12 +9,12 @@ description: Be nice and respectful, be professional, aim for good quality in qu
 
 *Short summary of the group rules.*
 
-* Post in English.
 * Be nice and respectful to others.
+* Post in English.
 * Be professional. Aim for good quality in questions and discussions. For
   sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
 * Publish only PHP and web-centric development related topics.
-* Job offers have to be web development / php related.
+* Job offers have to be PHP or web development related.
 * Don't share personal data.
 
 ## The full version
