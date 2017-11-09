@@ -142,7 +142,7 @@ from community members.
 
 **Affiliate links and paid promotions**: When a post contains an affiliate link
 or a paid promotion, it must be clear to users by adding additional information
-like "this is a an affiliate link/paid promotion" or similar in the post
+like "this is an affiliate link/paid promotion" or similar in the post
 description.
 
 **Private messaging**. Avoid sending commercial, support questions, or similar
@@ -153,37 +153,40 @@ with some sense related to particular situation and respect user's privacy.
 ### Disrespecting staff members
 
 Insults, not following the instructions and similar disrespecting of the group
-administrators and moderators result in a permanent ban.
+administrators and moderators will result in a permanent ban.
 
 Blocking staff members makes communication with you impossible. We must be able
-to communicate with you to resolve issues, explain certain situation and give
-you further instruction about posts. In such cases the other staff members may
-ask you to remove the block, otherwise your membership ends in a permanent ban.
+to communicate with you to resolve issues, explain certain situations, and to
+give you further instruction about posts. In such cases, other staff members
+may ask you to remove the block, otherwise your membership ends in a permanent
+ban.
 
 ### Ban
 
 When banning (blocking/removing/revoking account membership), the following
-types are practiced:
+types of bans are practiced:
 
 * Kick
 
-  User account is only removed from the group and not blocked. They may return
-  to the group anytime they choose.
+  A user account is only removed from the group and not blocked. They may
+  return to the group at any time.
 
 * Temporary ban
 
-  User account is blocked from accessing the group for few days or weeks. When
-  group staff member removes the user from the blocked list, they may return.
+  A user account is blocked from accessing the group for few days or weeks.
+  When a group staff member removes the user from the blocked list, the user
+  may return.
 
 * Ban
 
-  User account is blocked from accessing the group for few months to about a year.
+  A user account is blocked from accessing the group for few months to about a
+  year.
 
 ### Contact
 
-The project team maintains confidentiality with regard to the reporter of an
-incident. Wherever possible, we ask you to not disclose public information about
-the incident until we properly address the situation. This includes not posting
-on social media about the incident, until we have had an opportunity to ensure
-the safety of all involved. Code of conduct violations may be reported by
-contacting the project team at `conduct AT php.earth`.
+The project team maintains confidentiality with regards to the reporter of an
+incident. Wherever possible, we ask you to not disclose information about the
+incident publicly until we properly address the situation. This includes not
+posting on social media about the incident until we have had an opportunity to
+ensure the safety of all involved. Code of conduct violations may be reported
+by contacting the project team at `conduct AT php.earth`.
