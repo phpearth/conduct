@@ -21,15 +21,16 @@ description: Be nice and respectful, be professional, aim for good quality in qu
 
 ### Preamble
 
-This document defines the Code of Conduct of the global PHP Group and its
-environments. You **accept** the given rules of this conduct **when joining**
-our group **or participating** on our repositories. You **must** follow
-this conduct, **any violation** results in the temporary or permanent
-removal of your membership. This conduct counts for everyone administrators
-and regular members.
+This document defines the Code of Conduct of the global PHP Group and all of
+its environments. You **accept** the rules outlined by the Code of Conduct
+**when joining** our group or **when participating** in any of our
+repositories. You **must** follow the Code of Conduct accordingly.
+**Any violation** will result in the temporary or permanent removal of your
+membership. The Code of Conduct counts for everyone, administrators and regular
+members alike.
 
-The following rules are **mandatory** to participate in group and all
-repositories:
+The following rules are **mandatory** to participate in the group and any of
+its repositories:
 
 ### Content localization
 
@@ -58,23 +59,24 @@ Duplicate topics are not encouraged as they fill the group timeline and hinder
 the visibility of other topics. Duplicates will be removed from the
 group timeline.
 
-There is no place for low-quality content. Low-quality content include topics
-with only code *without a proper description of the problem*, unclear photos
-of screens that are hard to read and job opportunity shares that don't have
-a proper introduction.
+There is no place for low-quality content. Low-quality content includes topics
+with only code and *without any proper description of the problem*, unclear
+photos of screens that are difficult to read, and job opportunity shares that
+don't have a proper introduction.
 
 ### Forbidden content
 
 It is not allowed to post content that does not cover PHP and web-centric
-development. Any violation of this rule will result in permanent removal of the
+development. Any violation of this rule will result in permanent removal of
 membership. Content that violates the Facebook community standards will be
-forwarded to the Facebook staff.
+forwarded to Facebook staff.
 
-**Job opportunities** must be PHP or web development related and should be done
-in a peaceful period. Do not post your stuff every day or every hour. Our group
-aims to discussions and should not act as a job feed. Any other opportunities
-will be removed. Job opportunities that encourage discrimination as outlined
-below under "Social Behavior" are not acceptable.
+**Job opportunities** must be related to PHP or web development! Use some
+discretion in the frequency of such posts, and do not post them every day or
+every hour. Our group is aimed primarily at discussions and should not act as a
+job feed. Any off-topic opportunities will be removed. Job opportunities that
+encourage discrimination as outlined below under "Social Behavior" are not
+acceptable and will be removed.
 
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
@@ -83,7 +85,7 @@ Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers
 Skype identities or addresses in general) are explicitly not allowed in the group.
 Instead you should use private message functionality.
 
-**Hijacking topics** is not allowed. This either includes offtopic
+**Hijacking topics** is not allowed. This either includes off-topic
 advertisements in comments or commenting in a way that should be done by
 starting a new conversation.
 
@@ -100,15 +102,15 @@ Committing any kind of the described forbidden content to our repository will
 be rejected and your behavior will be alerted to the GitHub staff.
 
 Security issues are examined and treated accordingly to the severity of the
-situation. If the issue is severe the topic is removed from the public
+situation. If the issue is severe, the topic is removed from the public
 discussion to prevent further possible damage. Project owners are notified
 about it and are given time to fix it.
 
 ### Social behavior
 
-**You have to act social**. There is no place for harassments, bulling or
-political content that does not cover web development topics. You should never
-compromise or harm other members.
+**You have to act social**. There is no place for harassment or bullying at our
+group, nor any place for political content not related to PHP or web
+development. You should never compromise or harm other members.
 
 **Discrimination is not acceptable**. Discrimination on the basis of race,
 gender, sexual orientation, gender identity, age, nationality, religion,
@@ -129,18 +131,19 @@ people looking for existing solutions.
 
 **Closing topics**. Topics are closed by group staff decision in a case of
 non-English content, personal data shared, duplicate posts or low-quality
-discussions. Closing topics on your behalf is not a welcome practice and requires
-group staff decision. Instead, ask staff members to close the particular topic
-for you.
+discussions. Closing topics on your behalf is not a welcome practice and
+requires a decision from the group staff. Instead, ask staff members to close
+the particular topic for you.
 
 **Bumping topics**. Bumping topics in order to change the post position above
 the other discussions is not a welcome practice and should be avoided except for
-the support type of posts (questions) that need additional attention and help from
-the community members.
+posts related to support (questions) that need additional attention and help
+from community members.
 
 **Affiliate links and paid promotions**: When a post contains an affiliate link
-or a paid promotion, it must be clear to the user by adding additional info like
-"this is a an affiliate link/paid promotion" or similar in the post description.
+or a paid promotion, it must be clear to users by adding additional information
+like "this is a an affiliate link/paid promotion" or similar in the post
+description.
 
 **Private messaging**. Avoid sending commercial, support questions, or similar
 messages to community members over private messages. Harassing community members
