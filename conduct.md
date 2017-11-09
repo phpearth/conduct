@@ -70,11 +70,11 @@ development. Any violation of this rule will result in permanent removal of the
 membership. Content that violates the Facebook community standards will be
 forwarded to the Facebook staff.
 
-**Job opportunities** must be PHP related and should be done in a peaceful
-period. Do not post your stuff every day or every hour. Our group aims to
-discussions and should not act as a job feed. Any other opportunities will be
-removed. Job opportunities that encourage discrimination as outlined below under
-"Social Behavior" are not acceptable.
+**Job opportunities** must be PHP or web development related and should be done
+in a peaceful period. Do not post your stuff every day or every hour. Our group
+aims to discussions and should not act as a job feed. Any other opportunities
+will be removed. Job opportunities that encourage discrimination as outlined
+below under "Social Behavior" are not acceptable.
 
 Humor and sarcasm are not encouraged because they can have different points of
 reference among users.
