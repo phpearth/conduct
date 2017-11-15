@@ -83,7 +83,8 @@ reference among users.
 
 Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers,
 Skype identities or addresses in general) are explicitly not allowed in the group.
-Instead you should use private message functionality.
+Instead you should use private message functionality. This excludes sharing your
+contact information used for business purposes.
 
 **Hijacking topics** is not allowed. This either includes off-topic
 advertisements in comments or commenting in a way that should be done by
