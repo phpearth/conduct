@@ -2,6 +2,7 @@
 
 ![CC BY 4.0 License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg?style=plastic "CC BY 4.0 License")
 [![Latest version](https://img.shields.io/github/release/php-earth/conduct.svg?style=plastic)](https://github.com/php-earth/conduct/releases)
+[![Slack](https://img.shields.io/badge/slack-php.earth%2Fslack-8892bf.svg?logo=slack&style=plastic)](https://php.earth/slack)
 
 <div align="center">
   <img src="https://cdn.rawgit.com/php-earth/logo/master/svg/indigo.svg" width="300">
