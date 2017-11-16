@@ -83,14 +83,18 @@ reference among users.
 
 Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers,
 Skype identities or addresses in general) are explicitly not allowed in the group.
-Instead you should use private message functionality. This excludes sharing your
-contact information used for business purposes.
+Also sharing WhatsApp group invites is not allowed. Instead you should use private 
+message functionality. This excludes sharing your contact information used for 
+business purposes.
 
 **Hijacking topics** is not allowed. This either includes off-topic
 advertisements in comments or commenting in a way that should be done by
 starting a new conversation.
 
-Exploits and hacks are not allowed.
+Exploits and hacks are not allowed. This includes infringing other websites/services  
+Terms of Services (ToS) by exploiting their automated systems or in any
+other given way. Such infringements will be forwarded to the respective
+website if necessary.
 
 You must respect licenses and other people's work. To use other people's code,
 text, themes, designs and similar intellectual property, please consult with
