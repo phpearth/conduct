@@ -8,6 +8,11 @@ All notable changes to this project will be documented in this file. This projec
 
 * ...
 
+## [v2.1.11] - 2017-11-17
+
+* Added rule about WhatsApp group invites
+* Added rule about violating terms of services of other websites
+
 ## [v2.1.10] - 2017-11-15
 
 * Business contact information can be shared in the group
