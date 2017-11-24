@@ -119,9 +119,9 @@ development. You should never compromise or harm other members.
 
 **Discrimination is not acceptable**. Discrimination on the basis of race,
 gender, sexual orientation, gender identity, age, nationality, religion,
-technology and any other arbitrary exclusion of a group of people is unwelcome.
-The use of sexualized language or imagery and unwelcome sexual attention or
-advances is not acceptable.
+technology, education, socio-economic status and any other arbitrary exclusion
+of a group of people is unwelcome. The use of sexualized language or imagery and
+unwelcome sexual attention or advances is not acceptable.
 
 **You have to act peaceful**. There is no place for terrorism, recruitment
 shares and social honeypots. We actively track group content and will forward
