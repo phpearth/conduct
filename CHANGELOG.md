@@ -10,12 +10,12 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [v2.1.12] - 2017-12-09
 
-* Extend the diversity paragraph with education and socio-economic status
+* Extend the diversity paragraph with education and socio-economic status (Peter Kokot)
 
 ## [v2.1.11] - 2017-11-17
 
-* Added rule about WhatsApp group invites
-* Added rule about violating terms of services of other websites
+* Added rule about WhatsApp group invites (Chris Kielholz)
+* Added rule about violating terms of services of other websites (Chris Kielholz)
 
 ## [v2.1.10] - 2017-11-15
 
@@ -23,8 +23,8 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [v2.1.9] - 2017-11-10
 
-* TL;DR refactored
-* Multiple typos fixed
+* TL;DR refactored (Ádám Liszkai)
+* Multiple typos fixed (Caleb Mazalevskis)
 
 ## [v2.1.8] - 2017-11-01
 
@@ -41,7 +41,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [v2.1.5] - 2017-02-14
 
-* Add rule about discriminatory job opportunities.
+* Add rule about discriminatory job opportunities (Michael Bailey)
 
 ## [v2.1.4] - 2017-01-22
 
@@ -49,7 +49,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [v2.1.3] - 2016-12-22
 
-* WhatsApp numbers
+* WhatsApp numbers (Michael Bailey)
 * CC-BY-SA-4.0 license file added
 * Typos and Markdown fixed
 
@@ -86,8 +86,9 @@ All notable changes to this project will be documented in this file. This projec
 ## [v2.0.0] - 2016-03-27
 
 * Rules are renamed to Code of Conduct
-* Refreshed content thanks to [@nhlm](https://github.com/nhlm)
+* Refreshed content, by Matthias Kaschubowski
 * Added TL;DR version for quick overview of what to do and what not
+* Grammar fixes (Brian Newsom)
 
 ## [v1.2.1] - 2015-08-28
 
@@ -144,4 +145,5 @@ All notable changes to this project will be documented in this file. This projec
 ## [v1.0.0] - 2014-12-13
 
 * Group's rules migration from Facebook document in the group to GitHub repository
-  for better maintaining and versioning capabilities.
+  for better maintaining and versioning capabilities. (Peter Kokot, Tony Sodano,
+  Asif Saifuddin Auvi)
