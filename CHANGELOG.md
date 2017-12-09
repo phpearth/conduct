@@ -4,9 +4,13 @@ All notable changes to this project will be documented in this file. This projec
 [keeps a CHANGELOG](http://keepachangelog.com/) and adheres to
 [Semantic Versioning](http://semver.org/).
 
-## [UNREALEASED] - 2017-01-01
+## [UNREALEASED] - 2018-01-01
 
 * ...
+
+## [v2.1.12] - 2017-12-09
+
+* Extend the diversity paragraph with education and socio-economic status
 
 ## [v2.1.11] - 2017-11-17
 
