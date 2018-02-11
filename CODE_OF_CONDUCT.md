@@ -7,15 +7,15 @@ description: Be nice and respectful, be professional, aim for good quality in qu
 
 ## TL;DR version
 
-*Short summary of the group rules.*
+*A short summary of the group rules.*
 
 * Be nice and respectful to others.
 * Post in English.
-* Be professional. Aim for good quality in questions and discussions. For
-  sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
+* Be professional. Aim for good quality in questions and discussions.
+* For sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
 * Publish only PHP and web-centric development related topics.
 * Job offers have to be PHP or web development related.
-* Don't share personal data.
+* Don't share personal data (emails, phone numbers...).
 
 ## The full version
 
@@ -49,7 +49,7 @@ Shares and posts to the timeline **must have a regular level of quality**.
 Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the
 web for you. You must **avoid posting large code snippets** to the timeline of
-the group. We always recommend to share source code using
+the group. We always recommend sharing source code using
 [nopaste service](https://php.earth/doc/interop/nopaste) to grant the best
 possible readability. Long source code posted to the timeline can be difficult
 to read, because of the limited space on Facebook. Topics with large source
@@ -83,7 +83,7 @@ reference among users.
 
 Sharing or requesting for personal data (emails, phone numbers, WhatsApp numbers,
 Skype identities or addresses in general) and sharing WhatsApp group invites are
-explicitly not allowed in the group. Instead you should use private message
+explicitly not allowed in the group. Instead, you should use private message
 functionality. This excludes sharing your contact information used for business
 purposes.
 
@@ -113,7 +113,7 @@ about it and are given time to fix it.
 
 ### Social behavior
 
-**You have to act social**. There is no place for harassment or bullying at our
+**You have to act socially**. There is no place for harassment or bullying at our
 group, nor any place for political content not related to PHP or web
 development. You should never compromise or harm other members.
 
@@ -123,8 +123,8 @@ technology, education, socio-economic status and any other arbitrary exclusion
 of a group of people is unwelcome. The use of sexualized language or imagery and
 unwelcome sexual attention or advances is not acceptable.
 
-**You have to act peaceful**. There is no place for terrorism, recruitment
-shares and social honeypots. We actively track group content and will forward
+**You have to act peacefully**. There is no place for terrorism, recruitment
+shares, and social honeypots. We actively track group content and will forward
 such content directly to Facebook and **international authorities**. Our main
 duty is to **protect our members**.
 
@@ -153,7 +153,7 @@ description.
 **Private messaging**. Avoid sending commercial, support questions, or similar
 messages to community members over private messages. Harassing community members
 should be avoided at all costs. Contact and interact with people you don't know
-with some sense related to particular situation and respect user's privacy.
+with some sense related to the particular situation and respect user's privacy.
 
 ### Disrespecting staff members
 
@@ -187,7 +187,7 @@ types of bans are practiced:
   A user account is blocked from accessing the group for few months to about a
   year.
 
-### Contact
+### Reporting
 
 The project team maintains confidentiality with regards to the reporter of an
 incident. Wherever possible, we ask you to not disclose information about the
