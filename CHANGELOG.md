@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [UNREALEASED] - 2018-01-01
 
+* Grammar quick fixes
 * ...
 
 ## [v2.1.12] - 2017-12-09
