@@ -195,3 +195,13 @@ incident publicly until we properly address the situation. This includes not
 posting on social media about the incident until we have had an opportunity to
 ensure the safety of all involved. Code of conduct violations may be reported
 by contacting the project team at `conduct AT php.earth`.
+
+## Appendices
+
+Additional documents with additional administration workflow features or
+explanations of the procedures.
+
+### [Membership resurrection act](/mra.md)
+
+Optional mechanism available to administrators to grant the possibility of
+removing the long lasting bans.
