@@ -20,7 +20,7 @@ and some extra information about it.
   changes happen:
 
   ```bash
-  git remote add upstream git://github.com/php-earth/conduct
+  git remote add upstream git://github.com/phpearth/conduct
   git config branch.master.remote upstream
   ```
 
@@ -70,7 +70,7 @@ and some extra information about it.
 ## Images
 
 Some images are created with the [draw.io](https://www.draw.io) tool. They are
-located in a [separate repository](https://github.com/php-earth/PHP.earth).
+located in a [separate repository](https://github.com/phpearth/PHP.earth).
 
 ## Folder structure
 
@@ -105,7 +105,7 @@ The following labels are used:
 
 By contributing to this repository you agree to share knowledge under the
 Creative Commons Attribution-ShareAlike 4.0 International and code under the
-public domain. See [LICENSE](https://github.com/php-earth/conduct/blob/master/LICENSE)
+public domain. See [LICENSE](https://github.com/phpearth/conduct/blob/master/LICENSE)
 file for more information.
 
 ## Review and release process
