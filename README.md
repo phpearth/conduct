@@ -1,8 +1,3 @@
----
-image: "https://raw.githubusercontent.com/phpearth/PHP.earth/master/assets/meta/rules.png"
-description: Be nice and respectful, be professional, aim for good quality in questions and discussions, use nopaste, post in English, publish only PHP and web-centric development related topics, don't share personal data.
----
-
 # Code of conduct
 
 ## TL;DR version
