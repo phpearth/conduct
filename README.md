@@ -7,7 +7,7 @@
 * Be nice and respectful to others.
 * Post in English.
 * Be professional. Aim for good quality in questions and discussions.
-* For sharing code use [nopaste service](https://php.earth/doc/interop/nopaste).
+* For sharing code use [nopaste service](https://docs.php.earth/interop/nopaste).
 * Publish only PHP and web-centric development related topics.
 * Job offers have to be PHP or web development related.
 * Don't share personal data (emails, phone numbers...).
@@ -45,7 +45,7 @@ Questions **must be researched** before being posted. The group acts as a group
 to help on specific problems, not to read out documentations or querying the
 web for you. You must **avoid posting large code snippets** to the timeline of
 the group. We always recommend sharing source code using
-[nopaste service](https://php.earth/doc/interop/nopaste) to grant the best
+[nopaste service](https://docs.php.earth/interop/nopaste) to grant the best
 possible readability. Long source code posted to the timeline can be difficult
 to read, because of the limited space on Facebook. Topics with large source
 code as their content will be removed from the timeline of the group. Comments
