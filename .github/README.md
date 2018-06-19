@@ -1,7 +1,7 @@
 # Code of conduct
 
 ![CC BY 4.0 License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg?style=plastic "CC BY 4.0 License")
-[![Latest version](https://img.shields.io/github/release/phpearth/coc.svg?style=plastic)](https://github.com/phpearth/coc/releases)
+[![Latest version](https://img.shields.io/github/release/phpearth/conduct.svg?style=plastic)](https://github.com/phpearth/conduct/releases)
 
 <div align="center">
   <img src="https://cdn.rawgit.com/phpearth/logo/master/svg/indigo.svg" width="300">

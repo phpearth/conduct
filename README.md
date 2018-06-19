@@ -188,5 +188,4 @@ The project team maintains confidentiality with regards to the reporter of an
 incident. Wherever possible, we ask you to not disclose information about the
 incident publicly until we properly address the situation. This includes not
 posting on social media about the incident until we have had an opportunity to
-ensure the safety of all involved. Code of conduct violations may be reported
-by contacting the project team at `conduct AT php.earth`.
+ensure the safety of all involved.

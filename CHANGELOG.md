@@ -8,6 +8,8 @@ All notable changes to this project will be documented in this file. This projec
 
 * Slack badge removed
 * Grammar quick fixes
+* Code of Conduct rendered on a dedicated GitHub page
+* Contact and reporting section simplified
 * ...
 
 ## [v2.1.12] - 2017-12-09

@@ -20,7 +20,7 @@ and some extra information about it.
   changes happen:
 
   ```bash
-  git remote add upstream git://github.com/phpearth/coc
+  git remote add upstream git://github.com/phpearth/conduct
   git config branch.master.remote upstream
   ```
 
@@ -105,7 +105,7 @@ The following labels are used:
 
 By contributing to this repository you agree to share knowledge under the
 Creative Commons Attribution-ShareAlike 4.0 International and code under the
-public domain. See [LICENSE](https://github.com/phpearth/coc/blob/master/LICENSE)
+public domain. See [LICENSE](https://github.com/phpearth/conduct/blob/master/LICENSE)
 file for more information.
 
 ## Review and release process
@@ -117,4 +117,4 @@ file for more information.
 * If TL;DR section is updated or changed, also the
   [Facebook group](https://www.facebook.com/groups/2204685680/) description needs
   to be updated.
-* [Online version](https://coc.php.earth) is updated automatically accordingly.
+* [Online version](https://conduct.php.earth) is updated automatically accordingly.
