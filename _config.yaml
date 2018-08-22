@@ -1,4 +1,13 @@
 remote_theme: phpearth/github-pages-theme
+repository: phpearth/conduct
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - LICENSE
 title: PHP.earth Code of Conduct
 description: Be nice and respectful, be professional, aim for good quality in questions and discussions, use nopaste, post in English, publish only PHP and web-centric development related topics, don't share personal data.
-image: https://assets.php.earth/conduct/rules.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: https://assets.php.earth/conduct/rules.png
